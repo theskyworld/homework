@@ -51,10 +51,15 @@ body {
 }
 
 .introduction_card_content {
-  background-image: url('../assets/imgs/introduction_bg.png');
+  background-image: url("../assets/imgs/introduction_bg.png");
   background-repeat: repeat-x;
 }
-.introduction_card_content:hover {
-  top : -4px;
-  left : 4px;
+.moonshot_card_content {
+  background-image: url("../assets/imgs/moonshot_bg.png");
+  background-repeat: repeat-x;
+}
+.introduction_card_content:hover,
+.moonshot_card_content:hover {
+  top: -4px;
+  left: 4px;
 }
