@@ -31,3 +31,30 @@ body {
     text-wrap: balance;
   }
 }
+
+@font-face {
+  font-family: "NEXT Book";
+  src: url("../assets/fonts/NEXT otf/NEXT-Book-Regular.otf");
+}
+
+@font-face {
+  font-family: "Neue Machina";
+  src: url("../assets/fonts/neuemachina-regular.otf");
+}
+
+.next_book_font {
+  font-family: "NEXT Book";
+}
+
+.neue_machina_font {
+  font-family: "Neue Machina";
+}
+
+.introduction_card_content {
+  background-image: url('../assets/imgs/introduction_bg.png');
+  background-repeat: repeat-x;
+}
+.introduction_card_content:hover {
+  top : -4px;
+  left : 4px;
+}
