@@ -20,7 +20,7 @@ export default function MoonshotCard() {
         <div className="absolute top-[36px] w-[333px] text-zinc-100 text-base font-bold leading-none next_book_font">Moonshot 2023 Summer Hackathon</div>
         {/* labels */}
         <div className="absolute top-[68px]">
-          <div className="mr-[16px] w-[55px] h-[20px] px-2 py-1 rounded-[20px] border border-stone-500 justify-start items-start gap-2.5 inline-flex">
+          <div className="mr-[16px] w-[56px] h-[20px] px-2 py-1 rounded-[20px] border border-stone-500 justify-start items-start gap-2.5 inline-flex">
             <div className="text-white text-[9px] font-normal leading-[9.90px] next_book_font">All Tracks</div>
           </div>
           <div className="mr-[16px] w-[48px] h-[20px] px-2 py-1 rounded-[20px] border border-stone-500 justify-start items-start gap-2.5 inline-flex">

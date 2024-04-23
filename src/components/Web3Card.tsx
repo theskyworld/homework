@@ -36,7 +36,7 @@ export default function Web3Card() {
           </svg>
         </div>
         {/* clock text */}
-        <div className="absolute top-[226px] left-[60px] w-[65px] h-2 text-zinc-100 text-xs font-normal leading-3 neue_machina_font">36 Hour</div>
+        <div className="absolute top-[225.5px] left-[60px] w-[65px] h-2 text-zinc-100 text-xs font-normal leading-3 neue_machina_font">36 Hour</div>
         {/* book icon */}
         <div className="w-3.5 h-3.5 absolute top-[224px] left-[137px]">
           <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15" fill="none">
