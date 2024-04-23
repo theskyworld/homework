@@ -1,5 +1,6 @@
 import IntroductionCard from "@/components/IntroductionCard";
 import MoonshotCard from "@/components/MoonshotCard";
+import RightButton from "@/components/RightButton";
 import Web3Card from "@/components/Web3Card";
 
 export default function Home() {
@@ -7,7 +8,8 @@ export default function Home() {
     <div>
       {/* <IntroductionCard/> */}
       {/* <MoonshotCard /> */}
-      <Web3Card/>
+      {/* <Web3Card/> */}
+      <RightButton />
     </div>
   )
 }
